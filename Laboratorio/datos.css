@@ -1,0 +1,51 @@
+body {
+    background-color:rgb(141, 161, 188);
+}
+ table {
+    width: 80%; 
+    align-items: center;
+    border: 30px;
+    border-color: black;
+    padding: 600px;
+    border-collapse: collapse;
+    margin-left: 200px;
+    height: 200px;
+    justify-content: center;
+ } 
+ #datostabla{
+    margin-left: 200px;
+    color: beige;
+ } 
+ #campos {
+    color: beige;
+    margin-left: 50px;
+    font-size: 20px;
+    align-items: center;
+    
+ } 
+ h1 {
+    color: beige;
+    margin-left: 600px;
+ } 
+ #back {
+    font-size: 20px;
+    color: beige;
+    margin-top: 300px;
+ } td {
+    border-bottom-style: solid;
+    padding: 10px;
+    text-align: center;
+    
+
+ } tr{
+    background-color:rgb(91, 103, 136) ;
+    margin-left: 10px;
+
+ } 
+ th{
+    border-bottom-style:solid;
+    padding: 6px;
+   
+ }  echo{
+    color: beige;
+ }
